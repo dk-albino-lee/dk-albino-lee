@@ -3,9 +3,7 @@
 - 👋 Hi, I’m D.K. Albino Lee! Albino is my Christian name :)
 - 👨🏻‍💻 Now working as a Android & Middleware Developer
 - 👨🏻‍🎓 Double-majored Korean Language&Literature / English Language&Literature
-- 👀 Interested in **iOS**, **Golang**
-- 📫 donglee95.14@gmail.com
-- 📝 Gonna update README after referencing to other's self-intro.
+
 
 
 ## Stack & Interested
